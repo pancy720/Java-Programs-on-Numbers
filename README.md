@@ -1,3 +1,3 @@
 # Java-Programs-on-Numbers
-Mostly asked Number Programs using Java
+Mostly asked Programs on Numbers using Java
 The Programs are in master branch
